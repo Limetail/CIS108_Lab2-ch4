@@ -1,0 +1,12 @@
+//Constants:
+/*PRODUCTION_RATE
+PRE_PRODUCTION_RATE
+PRODUCERS_RATE*/
+//Variables:
+/*ProductionHours
+PreProductionHours
+ProducersHours
+PreProductionCost
+ProductionCost
+ProducersCost
+TotalCost*/
